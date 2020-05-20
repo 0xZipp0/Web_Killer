@@ -1,6 +1,8 @@
 # Web_Killer v1.0
 This tool can find subdomain using sublist3r and after that it will look for valid subdomains.
 
+USEFUL FOR BUG BOUNTY HUNTERS
+
 # REQUIREMENTS:
 1- KALI LINUX
 
