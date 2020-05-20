@@ -30,3 +30,7 @@ Arguments:
 '-o' = output
 
 Example: "python3 web_killer.py -d google.com -o google.txt"
+
+# VIDEO_TUTORIAL
+
+https://youtu.be/OFW5DohgJQU
